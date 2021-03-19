@@ -2,7 +2,7 @@
 
 ![Shading a cafe](cafe.jpg)
 
-### Atum a lemenő nap, a fény kitakarója
+### Atum, a lemenő nap, a fény kitakarója
 
 A napernyő tervezésének első gondolata abból fakadt, hogy sok olyan tervezési munkánk volt és van, ahol városi terek, vendéglátó teraszok kialakításával foglalkozunk. Kutatásaink során jutottunk arra a megállapításra, hogy igazán érdekes és szép mobil napernyő jelenleg nincs a piacon. A jellemzően városi szövetbe kerülő elemek felülnézeti képe is nagyon fontos, hiszen a környező épületekből nézve a tereknek felülnézeti képe is van. Ez szülte a gondolatot, hogy valósítsuk meg mi azt a napernyőt, ami mind megjelenésében, mind működésében új színt hoz az árnyékoló megoldások szegmensébe.
 
