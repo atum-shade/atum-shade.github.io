@@ -58,4 +58,4 @@ Az árnyékoló prototípusonk célcsoportja a Hotelek, éttermek, strandok, fes
 
 ### Kapcsolat
 
-[minusplus.hu](https://minusplus.hu)
+[minusplus.hu](http://www.minusplus.hu/)
