@@ -17,6 +17,8 @@ Az összetett csuklós rendszerek egyik meglepő, túlhatározott példája az 1
 
 A mikrobiológiai példákon túl az elmúlt évtizdeben számtalan példa került felszínre a makrobiológia világából is. Számtalan növény napi szinten kinyitja és becsukja a leveleit, vagy virágának szírmait. A növényi mozgások mind klasszikus csuklók nélkül működnek. Minden mozgást nyomott és húzott elemek elválaszthatatlan hálózataként oldanak meg.
 
+![Mobile](talp.jpg)
+
 ### Biológiai formaanalógia:
 Az élővilágban a virágok szirmai és a növények levelei az évszaknak-, a napszaknak megfelelően és az időjárási hatásokra reagálva  viselkednek. Ez a viselkedésminta a tervezett árnyékoló egyik inspirálója. A természetből merített ihlet segített minket abban, hogy épített környezetünkben az árnyékolás minőségével kapcsolatban általunk megfogalmazott kritériumokra organikus és egyben esztétikai szempontból igényes megoldást találjunk. Minden általunk megfogalmazott napernyőforma analóg egy a természetben megtalálható növény bizonyos formai-, működési részleteivel. Egy-egy éppen leszállt pitypangmagra emlékeztetve, az árnyékolók általános szerkezete, aránya és alakja légies. A természetes korrespondenciák nemcsak esztétikai élményéből, hanem funkcionalitásából, az úgynevezett „biológiai dizájn” formatárából merítenek ihletet az ernyő különböző alakjaiban megnyilvánulva. A változatos formák kombinálásából egy olyan organikus, szelíd mikrokozmosz-szerű boltozat alakítható ki, amely felidézi a természet nyugtató érintését a város szívében.
 
@@ -31,6 +33,8 @@ A négyszögletes alaprajzú napernyők a két termőlevélből kialakult, kétr
 A tervezett napernyők között mindhárom alaprajzi formából találunk párnaszerűen kialakított alul-felül szövettel fedett változatokat. Ezek a formák a bugás csörgőfa tokterméseit idézik, amik hólyagszerűen felfújva levegővel teli, könnyed testekként jelennek meg a fák ágain. Ezeknek a növényeknek a tulajdonságai is szerepet játszottak  a napernyők légies megjelenésének kialakításában, aminek hatását a szerkezet elrejtése tovább fokozza így téve még súlytalanabbá azt.
  
 Továbbvezetve a gondolatot eljutunk a tervezett célig: a belülről világító búrák szintén egy létező, bizonyos növények fényraktározó és a fényt éjszaka visszasugározó képességéből merít ihletet. A világító egységekké fejlesztett ernyőalakok a biolumineszcencia természetes jelenségére reflektálnak, melynek a számunkra legismertebb képviselői az éjjel fluoreszkáló gombák. Csodálatos látványukból kiindulva a multifunkcionális ernyő-búrák éjszaka nem csak védenek, hanem világítanak is, mint egy mesebeli erdőben messziről meglátott fénypont.
+
+![Section](metszet.jpg)
 
 ### A konstrukció kialakításának analógiája
 A tudományos irodalomban található elemzések és saját nagyméretű feszített ernyőkkel szerzett tapasztalataink alapján kezdtünk bionikus csuklómechanizmusokkal kísérletezni. Saját kutatásunk ereményeképpen bizonyosodtunk meg, hogy a környezetünkben fellelhető számtalan összetett csuklós szerkezet mechanizmusa leegyszerűsíthető, vagy teljesen kiváltható bionikus elvekkel. Ezek a tárgyak nem igénylenek nagy ismétlési pontosságot, így a biológiai alapokon nyukvó csuklómechanizmusok költséghatékony technológiákkal is tökéletesre készíthetőek megfelelő elrendezések mellett. 
@@ -49,6 +53,8 @@ A kutatás eredményeképp létrejövő elveket egy kézenfekvő termék formáj
 Legnagyobb piaci igény várhatóan az elv igazolásaként létrejövő árnyékoló termék javaslatra lesz. Ez a legkézzelfoghatóbb eredményünk és egyben a legközérthetőbb is. A költséghatékony környezebarát megoldások minden ismert példában piaci sikert hoztak, azoknál a termékeknél, amelyek valós igényre épültek. A teljes kutatási anyagunk inspirációját olyan munkáink adták, amelyekben a megbízók, esztétikus, környezetbarát és költség kímélő megoldásokat kerestek a piacon fellelhető kész megoldásokkal szemben. Több szakmai fórumon is hangoztatják az egyedi megoldások létjogosultságát a azárnyékolás technikában. A bionikus gépelemeink variálásával, ugyan arra a működési elvre több formavilág is felépíthető, amellyel nagyobb és változatos ízléső réteg szolgálható ki. Az egészen extrém szögletes struktúráktól kezdve a lágy növényszerű, organikus formákig a teljes spektrum lefedhető az elvünkre épülő elemekkel. 
 
 Az árnyékoló prototípusonk célcsoportja a Hotelek, éttermek, strandok, fesztivál- és rendezvényszervezők és egyedi beruházók. 
+
+![Shade](shade.png)
 
 ### Kapcsolat
 
